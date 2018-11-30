@@ -1,14 +1,9 @@
-[
-  {
-    "relation": [
-      "delegate_permission/common.handle_all_urls"
-    ],
-    "target": {
-      "namespace": "android_app",
-      "package_name": "io.crossinstall.instantapp",
-      "sha256_cert_fingerprints": [
-        "0A:DD:D8:85:88:C8:00:2C:C3:59:9D:87:03:5A:59:C5:DE:86:E5:B3:4F:BC:16:E9:1F:29:53:F8:41:F7:B9:7C"
-      ]
-    }
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.recipe_app",
+    "sha256_cert_fingerprints":
+    ["27:C3:72:58:86:D1:F6:EE:90:F4:7E:32:07:A5:E2:A7:08:B9:CF:B7:6F:07:83:D0:D4:C5:6A:49:05:35:43:A5"]
   }
-]
+}]
