@@ -1,0 +1,5 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target" : { "namespace": "android_app", "package_name": "io.crossinstall.instantapp",
+               "sha256_cert_fingerprints": ["0A:DD:D8:85:88:C8:00:2C:C3:59:9D:87:03:5A:59:C5:DE:86:E5:B3:4F:BC:16:E9:1F:29:53:F8:41:F7:B9:7C"] }
+}]
